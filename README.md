@@ -11,7 +11,7 @@ Analisar o desempenho de vendas, produtos e vendedores da empresa, criando um **
 
 ## 🗂 Estrutura do Projeto
 📁 **/powerbi** → contém o dashboard `ana machado.pbix`  
-![Ana Machado](ana machado.jpg)
+  [Ana Machado](ana machado.jpg)
 
 ---
 
