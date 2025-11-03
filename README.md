@@ -4,17 +4,17 @@ Projeto desenvolvido como simulação de uma empresa fictícia de semijoias, **A
 
 ---
 
-## 🧠 Objetivo
+## Objetivo
 Analisar o desempenho de vendas, produtos e vendedores da empresa, criando um **dashboard interativo no Power BI**.
 
 ---
 
-## 🗂 Estrutura do Projeto
-📁 **/powerbi** → contém o dashboard `ana machado.pbix`  
+## Estrutura do Projeto
+**/powerbi** → contém o dashboard `Ana Machado.pbix`  
 
 ---
 
-## 📊 Dashboard Power BI
+## Dashboard Power BI
 O relatório apresenta:
 - Vendas por mês  
 - Top 5 produtos mais vendidos  
@@ -25,10 +25,10 @@ O relatório apresenta:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas  
+## Tecnologias Utilizadas  
 - **Power BI** → criação do dashboard  
 - **GitHub** → versionamento e portfólio  
 
 ---
 
-🚀 Projeto desenvolvido por **Lucas Martins** para fins de estudo e portfólio.
+ Projeto desenvolvido por **Lucas Martins** para fins de estudo e portfólio.
